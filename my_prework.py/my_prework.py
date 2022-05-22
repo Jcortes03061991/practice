@@ -4,8 +4,8 @@
 
 def hello_name(user_name):
     print("hello_"+user_name)
-    user_name=input('Enter USERNAME:')
-    hello_name(user_name)
+user_name = input('Enter USERNAME:')
+hello_name(user_name)
 
 
 
