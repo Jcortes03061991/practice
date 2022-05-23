@@ -3,7 +3,7 @@ body, html{
     margin: 0px;
 }
 body{
-    background-color:black;
+    background-color:pink;
 }
 
 nav li{
@@ -12,7 +12,7 @@ nav li{
 }
 
 nav ul{
-    background-color: black;
+    background-color: yellow;
     margin: 0;
     list-style-type:none;
     width:100%;
@@ -22,7 +22,7 @@ nav ul{
 
 nav{
     display: block;
-    color:white;
+    color:teal;
 }
 
 nav a{
